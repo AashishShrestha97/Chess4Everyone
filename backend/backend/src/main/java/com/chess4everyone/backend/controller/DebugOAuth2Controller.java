@@ -1,4 +1,4 @@
-package com.chess4everyone.backend.controller;
+package com.chess4everyone.backend.config;
 
 import java.util.HashMap;
 import java.util.Map;
