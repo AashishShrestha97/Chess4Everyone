@@ -1,5 +1,5 @@
 // repo/UserRepository.java
-package com.chess4everyone.backend.repo;
+package com.chess4everyone.backend.repository;
 
 import java.util.Optional;
 
