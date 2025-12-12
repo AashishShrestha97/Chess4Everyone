@@ -1,4 +1,4 @@
-package com.chess4everyone.backend.security;
+package com.chess4everyone.backend.security.oauth2;
 
 import java.io.IOException;
 import java.util.Map;

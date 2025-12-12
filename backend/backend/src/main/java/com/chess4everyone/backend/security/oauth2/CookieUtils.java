@@ -1,4 +1,4 @@
-package com.chess4everyone.backend.security;
+package com.chess4everyone.backend.security.oauth2;
 
 import org.springframework.http.ResponseCookie;
 import org.springframework.stereotype.Component;

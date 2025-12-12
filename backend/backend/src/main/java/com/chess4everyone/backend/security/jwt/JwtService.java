@@ -1,4 +1,4 @@
-package com.chess4everyone.backend.security;
+package com.chess4everyone.backend.security.jwt;
 
 import java.security.Key;
 import java.time.Instant;
@@ -7,7 +7,7 @@ import java.util.Map;
 
 import org.springframework.stereotype.Service;
 
-import com.chess4everyone.backend.config.JwtProperties;
+import com.chess4everyone.backend.security.jwt.JwtProperties;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jws;

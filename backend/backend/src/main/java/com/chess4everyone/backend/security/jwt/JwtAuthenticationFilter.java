@@ -1,4 +1,4 @@
-package com.chess4everyone.backend.security;
+package com.chess4everyone.backend.security.jwt;
 
 import java.io.IOException;
 import java.util.Collections;
