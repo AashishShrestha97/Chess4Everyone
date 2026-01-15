@@ -1,4 +1,4 @@
-package com.chess4everyone.backend.config;
+package com.chess4everyone.backend.security.jwt;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
