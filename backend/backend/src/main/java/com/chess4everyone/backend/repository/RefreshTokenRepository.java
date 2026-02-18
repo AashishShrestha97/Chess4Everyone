@@ -1,5 +1,5 @@
 // repo/RefreshTokenRepository.java
-package com.chess4everyone.backend.repository;
+package com.chess4everyone.backend.repo;
 
 import java.util.Optional;
 
